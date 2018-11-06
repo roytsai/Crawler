@@ -1,4 +1,4 @@
-# Crawler
+# Crawler 
 ### 我先簡單介紹一下依爬蟲困難程度差別 :
 1. 簡單的網頁內容，也就是不用經過其他步驟，也沒有js渲染。比方:https://doc.scrapy.org/en/latest/intro/tutorial.html
     * 此情況只需要透過單純的 http requests即可解決
